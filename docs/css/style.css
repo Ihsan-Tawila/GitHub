@@ -53,6 +53,10 @@ main{
 			   0px 0px 10px black;
 	text-align:center;
 }
+.project1 p{
+	width:100%;
+	
+}
 h2{
 	text-align:center;
 	font-size:3vw;
